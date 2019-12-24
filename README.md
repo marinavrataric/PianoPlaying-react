@@ -1,3 +1,6 @@
+<img width="646" alt="piano" src="https://user-images.githubusercontent.com/21130451/71413508-c5725680-2652-11ea-9b24-ec87dccdf111.PNG">
+<img width="764" alt="pianoplaying" src="https://user-images.githubusercontent.com/21130451/71413507-c5725680-2652-11ea-96ef-72f270d71647.PNG">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
